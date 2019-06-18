@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--12% 分割线-->
+    <color name="black_split_line">#1F000000</color>
+
+    <color name="testButtonColor">#fd8607</color>
+    <color name="testButtonSelectorColor">#b76106</color>
+</resources>
